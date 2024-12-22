@@ -26,5 +26,5 @@ If the output value of the ultrasonic sensor changes little over the next 30 sec
 
 Visual Feedback:
 The color of the LED changes and the remaining time updates on the LCD according to the remaining time. If the user does not wash their hands thoroughly,
-the remaining time does not decrease, the LED color does not change, and the music extends. 
+the remaining time does not decrease, the LED color does not change, and the music extends. 
 
