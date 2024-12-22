@@ -15,16 +15,16 @@ But there is a few things that can make you does not feel boring.
 
 
 ### Working system
-User Recognition
-When a user is detected using an ultrasonic sensor, the system dispenses soap using two Servo motor and starts the service with playing the music using piezo.
+User Recognition:
+When a user is detected using an ultrasonic sensor, the system dispenses soap using two Servo motor and starts the service with playing the music using piezo.
 
-Handwashing Recognition
-Each time the hand moves, the output value of the ultrasonic sensor changes, which allows the system to determine whether the user is properly washing their hands.
+Handwashing Recognition:
+Each time the hand moves, the output value of the ultrasonic sensor changes, which allows the system to determine whether the user is properly washing their hands.
 
-Sound Feedback
-If the output value of the ultrasonic sensor changes little over the next 30 seconds, the music extends and the remaining time on the LCD does not decrease.
+Sound Feedback:
+If the output value of the ultrasonic sensor changes little over the next 30 seconds, the music extends and the remaining time on the LCD does not decrease.
 
-Visual Feedback
-The color of the LED changes and the remaining time updates on the LCD according to the remaining time. If the user does not wash their hands thoroughly,
+Visual Feedback:
+The color of the LED changes and the remaining time updates on the LCD according to the remaining time. If the user does not wash their hands thoroughly,
 the remaining time does not decrease, the LED color does not change, and the music extends. 
 
